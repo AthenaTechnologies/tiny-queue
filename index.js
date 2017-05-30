@@ -47,6 +47,6 @@ Queue.prototype.slice = function (start, end) {
         }
     }
     return output;
-}
+};
 
 module.exports = Queue;
